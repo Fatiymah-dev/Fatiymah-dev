@@ -110,16 +110,7 @@ Full-stack engineer building production systems end to end — from React/Next.j
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatiymah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatiymah-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Fatiymah-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fatiymah-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies"/>
 </div>
 
 ---
